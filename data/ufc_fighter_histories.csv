@@ -1,0 +1,138 @@
+F1_Name,F2_Name,Date,Event,WeightClass,TitleFight,Result,EndRound,EndTime,F1_Reach_in,F2_Reach_in,F1_Height_in,F2_Height_in,F1_Win,F1_Loss,F1_StrikesLanded,F2_StrikesLanded,F1_StrikesAttempted,F2_StrikesAttempted
+Amanda Nunes,Julia Budd,2011-01-07,Strikeforce Challengers 13,Women's Featherweight,FALSE,Knockout,1,0:14,69,67,68,67,TRUE,FALSE,11,3,19,6
+Amanda Nunes,Alexis Davis,2011-09-10,Strikeforce - Barnett vs Kharitonov,Women's Bantamweight,FALSE,Knockout,2,4:53,69,68,68,66,FALSE,TRUE,66,126,109,168
+Amanda Nunes,Sheila Gaff,2013-08-03,UFC 163: Aldo vs Jung,Women's Bantamweight,FALSE,Knockout,1,2:08,69,,68,65,TRUE,FALSE,16,5,25,10
+Amanda Nunes,Germaine de Randamie,2013-11-06,UFC Fight Night: Fight for the Troops 3,Women's Bantamweight,FALSE,Knockout,1,3:56,69,71,68,69,TRUE,FALSE,23,1,67,6
+Amanda Nunes,Cat Zingano,2014-09-27,UFC 178: Johnson vs Cariaso,Women's Bantamweight,FALSE,Knockout,3,1:21,69,68,68,66,FALSE,TRUE,36,93,54,116
+Amanda Nunes,Shayna Baszler,2015-03-21,UFC Fight Night: Maia vs LaFlare,Women's Bantamweight,FALSE,Knockout,1,1:56,69,,68,67,TRUE,FALSE,17,1,20,8
+Amanda Nunes,Sara McMann,2015-08-08,UFC Fight Night: Teixeira vs Saint Preux,Women's Bantamweight,FALSE,Submission,1,2:53,69,66,68,66,TRUE,FALSE,36,4,53,18
+Amanda Nunes,Valentina Shevchenko,2016-03-05,UFC 196: McGregor vs Diaz,Women's Bantamweight,FALSE,Unanimous Decision,3,5:00,69,66,68,65,TRUE,FALSE,66,56,112,99
+Amanda Nunes,Miesha Tate,2016-07-09,UFC 200: Tate vs Nunes,Women's Bantamweight,TRUE,Submission,1,3:16,69,66,68,66,TRUE,FALSE,40,3,63,15
+Amanda Nunes,Ronda Rousey,2016-12-30,UFC 207: Nunes vs Rousey,Women's Bantamweight,TRUE,Knockout,1,0:48,69,66,68,67,TRUE,FALSE,27,7,47,14
+Amanda Nunes,Valentina Shevchenko,2017-09-09,UFC 215: Nunes vs Shevchenko 2,Women's Bantamweight,TRUE,Split Decision,5,5:00,69,66,68,65,TRUE,FALSE,90,85,180,209
+Amanda Nunes,Raquel Pennington,2018-05-12,UFC 224: Nunes vs Pennington,Women's Bantamweight,TRUE,Knockout,5,2:36,69,67,68,67,TRUE,FALSE,152,79,288,186
+Amanda Nunes,Cris Cyborg,2018-12-29,UFC 232: Jones vs Gustafsson 2,Women's Featherweight,TRUE,Knockout,1,0:51,69,68,68,68,TRUE,FALSE,13,3,21,15
+Amanda Nunes,Holly Holm,2019-07-06,UFC 239: Jones vs Santos,Women's Bantamweight,TRUE,Knockout,1,4:10,69,69,68,68,TRUE,FALSE,17,14,36,17
+Amanda Nunes,Germaine de Randamie,2019-12-14,UFC 245: Usman vs Covington,Women's Bantamweight,TRUE,Unanimous Decision,5,5:00,69,71,68,69,TRUE,FALSE,199,126,337,175
+Amanda Nunes,Felicia Spencer,2020-06-06,UFC 250: Nunes vs Spencer,Women's Featherweight,TRUE,Unanimous Decision,5,5:00,69,68,68,66,TRUE,FALSE,132,70,222,161
+Conor McGregor,Marcus Brimage,2013-04-06,UFC on FUEL TV: Mousasi vs Latifi,Featherweight,FALSE,Knockout,1,1:07,74,71,69,64,TRUE,FALSE,22,12,36,41
+Conor McGregor,Max Holloway,2013-08-17,UFC Fight Night: Shogun vs Sonnen,Featherweight,FALSE,Unanimous Decision,3,5:00,74,69,69,71,TRUE,FALSE,71,32,173,104
+Conor McGregor,Diego Brandao,2014-07-19,UFC Fight Night: McGregor vs Brandao,Featherweight,FALSE,Knockout,1,4:05,74,64,69,67,TRUE,FALSE,37,10,68,23
+Conor McGregor,Dustin Poirier,2014-09-27,UFC 178: Johnson vs Cariaso,Featherweight,FALSE,Knockout,1,1:46,74,72,69,69,TRUE,FALSE,9,10,29,19
+Conor McGregor,Dennis Siver,2015-01-18,UFC Fight Night: McGregor vs Siver,Featherweight,FALSE,Knockout,2,1:54,74,70,69,66,TRUE,FALSE,65,33,120,105
+Conor McGregor,Chad Mendes,2015-07-11,UFC 189: Mendes vs McGregor,Featherweight,TRUE,Knockout,2,4:57,74,66,69,66,TRUE,FALSE,74,36,120,53
+Conor McGregor,Jose Aldo,2015-12-12,UFC 194: Aldo vs McGregor,Featherweight,TRUE,Knockout,1,0:13,74,70,69,67,TRUE,FALSE,5,1,6,3
+Conor McGregor,Nate Diaz,2016-03-05,UFC 196: McGregor vs Diaz,Welterweight,FALSE,Submission,2,4:12,74,76,69,72,FALSE,TRUE,66,89,145,169
+Conor McGregor,Nate Diaz,2016-08-20,UFC 202: Diaz vs McGregor 2,Welterweight,FALSE,Split Decision,5,5:00,74,76,69,72,TRUE,FALSE,197,252,322,435
+Conor McGregor,Eddie Alvarez,2016-11-12,UFC 205: Alvarez vs McGregor,Lightweight,TRUE,Knockout,2,3:04,74,69,69,69,TRUE,FALSE,40,12,93,46
+Conor McGregor,Khabib Nurmagomedov,2018-10-06,UFC 229: Khabib vs McGregor,Lightweight,TRUE,Submission,4,3:03,74,70,69,70,FALSE,TRUE,96,104,128,157
+Conor McGregor,Donald Cerrone,2020-01-18,UFC 246: McGregor vs Cowboy,Welterweight,FALSE,Knockout,1,0:40,74,73,69,73,TRUE,FALSE,20,0,27,1
+Holly Holm,Raquel Pennington,2015-02-28,UFC 184: Rousey vs Zingano,Women's Bantamweight,FALSE,Split Decision,3,5:00,69,67,68,67,TRUE,FALSE,48,51,214,150
+Holly Holm,Marion Reneau,2015-07-15,UFC Fight Night: Mir vs Duffee,Women's Bantamweight,FALSE,Unanimous Decision,3,5:00,69,68,68,66,TRUE,FALSE,70,32,184,82
+Holly Holm,Ronda Rousey,2015-11-14,UFC 193: Rousey vs Holm,Women's Bantamweight,TRUE,Knockout,2,0:59,69,66,68,67,TRUE,FALSE,38,21,53,69
+Holly Holm,Miesha Tate,2016-03-05,UFC 196: McGregor vs Diaz,Women's Bantamweight,TRUE,Submission,5,3:30,69,66,68,66,FALSE,TRUE,68,65,151,132
+Holly Holm,Valentina Shevchenko,2016-07-23,UFC on FOX: Holm vs Shevchenko,Women's Bantamweight,FALSE,Unanimous Decision,5,5:00,69,66,68,65,FALSE,TRUE,73,119,231,217
+Holly Holm,Germaine de Randamie,2017-02-11,UFC 208: Holm vs De Randamie,Women's Featherweight,TRUE,Unanimous Decision,5,5:00,69,71,68,69,FALSE,TRUE,122,144,235,223
+Holly Holm,Bethe Correia,2017-06-17,UFC Fight Night: Holm vs Correia,Women's Bantamweight,FALSE,Knockout,3,1:09,69,64,68,65,TRUE,FALSE,25,21,54,71
+Holly Holm,Cris Cyborg,2017-12-30,UFC 219: Cyborg vs Holm,Women's Featherweight,TRUE,Unanimous Decision,5,5:00,69,68,68,68,FALSE,TRUE,48,131,232,237
+Holly Holm,Megan Anderson,2018-06-09,UFC 225: Whittaker vs Romero 2,Women's Featherweight,FALSE,Unanimous Decision,3,5:00,69,72,68,72,TRUE,FALSE,143,48,176,81
+Holly Holm,Amanda Nunes,2019-07-06,UFC 239: Jones vs Santos,Women's Bantamweight,TRUE,Knockout,1,4:10,69,69,68,68,FALSE,TRUE,14,17,17,36
+Holly Holm,Raquel Pennington,2020-01-18,UFC 246: McGregor vs Cowboy,Women's Bantamweight,FALSE,Unanimous Decision,3,5:00,69,67,68,67,TRUE,FALSE,81,55,129,95
+Holly Holm,Irene Aldana,2020-10-03,UFC Fight Night: Holm vs Aldana,Women's Bantamweight,FALSE,Unanimous Decision,5,5:00,69,68,68,69,TRUE,FALSE,187,92,342,210
+Israel Adesanya,Rob Wilkinson,2018-02-10,UFC 221: Romero vs Rockhold,Middleweight,FALSE,Knockout,2,3:37,80,80,76,75,TRUE,FALSE,70,33,94,59
+Israel Adesanya,Marvin Vettori,2018-04-14,UFC Fight Night: Poirier vs Gaethje,Middleweight,FALSE,Split Decision,3,5:00,80,74,76,72,TRUE,FALSE,67,60,134,169
+Israel Adesanya,Brad Tavares,2018-07-06,The Ultimate Fighter: Undefeated Finale,Middleweight,FALSE,Unanimous Decision,5,5:00,80,74,76,73,TRUE,FALSE,127,46,223,181
+Israel Adesanya,Derek Brunson,2018-11-03,UFC 230: Cormier vs Lewis,Middleweight,FALSE,Knockout,1,4:51,80,77,76,73,TRUE,FALSE,15,9,25,23
+Israel Adesanya,Anderson Silva,2019-02-09,UFC 234: Adesanya vs Silva,Middleweight,FALSE,Unanimous Decision,3,5:00,80,77,76,74,TRUE,FALSE,65,34,132,75
+Israel Adesanya,Kelvin Gastelum,2019-04-13,UFC 236: Holloway vs Poirier 2,Middleweight,TRUE,Unanimous Decision,5,5:00,80,71,76,69,TRUE,FALSE,119,92,247,222
+Israel Adesanya,Robert Whittaker,2019-10-05,UFC 243: Whittaker vs Adesanya,Middleweight,TRUE,Knockout,2,3:33,80,73,76,72,TRUE,FALSE,40,32,95,116
+Israel Adesanya,Yoel Romero,2020-03-07,UFC 248: Adesanya vs Romero,Middleweight,TRUE,Unanimous Decision,5,5:00,80,73,76,72,TRUE,FALSE,48,40,132,89
+Israel Adesanya,Paulo Costa,2020-09-26,UFC 253: Adesanya vs Costa,Middleweight,TRUE,Knockout,2,3:59,80,72,76,73,TRUE,FALSE,55,12,84,26
+Kamaru Usman,Hayder Hassan,2015-07-12,The Ultimate Fighter: American Top Team vs Blackzilians Finale,Welterweight,TRUE,Submission,2,1:19,76,,72,70,TRUE,FALSE,31,7,43,15
+Kamaru Usman,Leon Edwards,2015-12-19,UFC on FOX: Dos Anjos vs Cowboy 2,Welterweight,FALSE,Unanimous Decision,3,5:00,76,74,72,74,TRUE,FALSE,126,36,163,67
+Kamaru Usman,Alexander Yakovlev,2016-07-23,UFC on FOX: Holm vs Shevchenko,Welterweight,FALSE,Unanimous Decision,3,5:00,76,74,72,75,TRUE,FALSE,155,11,195,18
+Kamaru Usman,Warlley Alves,2016-11-19,UFC Fight Night: Bader vs Nogueira,Welterweight,FALSE,Unanimous Decision,3,5:00,76,72,72,71,TRUE,FALSE,129,26,216,74
+Kamaru Usman,Sean Strickland,2017-04-08,UFC 210: Cormier vs Johnson 2,Welterweight,FALSE,Unanimous Decision,3,5:00,76,76,72,73,TRUE,FALSE,117,30,200,108
+Kamaru Usman,Sergio Moraes,2017-09-16,UFC Fight Night: Rockhold vs Branch,Welterweight,FALSE,Knockout,1,2:48,76,72,72,72,TRUE,FALSE,16,13,48,27
+Kamaru Usman,Emil Meek,2018-01-14,UFC Fight Night: Stephens vs Choi,Welterweight,FALSE,Unanimous Decision,3,5:00,76,74,72,71,TRUE,FALSE,112,86,132,131
+Kamaru Usman,Demian Maia,2018-05-19,UFC Fight Night: Maia vs Usman,Welterweight,FALSE,Unanimous Decision,5,5:00,76,72,72,73,TRUE,FALSE,97,33,244,94
+Kamaru Usman,Rafael Dos Anjos,2018-11-30,The Ultimate Fighter: Heavy Hitters Finale,Welterweight,FALSE,Unanimous Decision,5,5:00,76,70,72,68,TRUE,FALSE,227,84,334,138
+Kamaru Usman,Tyron Woodley,2019-03-02,UFC 235: Jones vs Smith,Welterweight,TRUE,Unanimous Decision,5,5:00,76,74,72,69,TRUE,FALSE,336,60,390,79
+Kamaru Usman,Colby Covington,2019-12-14,UFC 245: Usman vs Covington,Welterweight,TRUE,Knockout,5,4:10,76,72,72,71,TRUE,FALSE,175,143,360,395
+Kamaru Usman,Jorge Masvidal,2020-07-11,UFC 251: Usman vs Masvidal,Welterweight,TRUE,Unanimous Decision,5,5:00,76,74,72,71,TRUE,FALSE,263,88,341,157
+Khabib Nurmagomedov,Kamal Shalorus,2012-01-20,UFC on FX: Guillard vs Miller,Lightweight,FALSE,Submission,3,2:08,70,68,70,68,TRUE,FALSE,59,18,106,51
+Khabib Nurmagomedov,Gleison Tibau,2012-07-07,UFC 148: Silva vs Sonnen 2,Lightweight,FALSE,Unanimous Decision,3,5:00,70,71,70,70,TRUE,FALSE,33,46,112,110
+Khabib Nurmagomedov,Thiago Tavares,2013-01-19,UFC on FX: Belfort vs Bisping,Lightweight,FALSE,Knockout,1,1:55,70,70,70,67,TRUE,FALSE,22,2,31,10
+Khabib Nurmagomedov,Abel Trujillo,2013-05-25,UFC 160: Velasquez vs Silva 2,Lightweight,FALSE,Unanimous Decision,3,5:00,70,70,70,68,TRUE,FALSE,46,18,68,39
+Khabib Nurmagomedov,Pat Healy,2013-09-21,UFC 165: Jones vs Gustafsson,Lightweight,FALSE,Unanimous Decision,3,5:00,70,72,70,72,TRUE,FALSE,90,68,169,189
+Khabib Nurmagomedov,Rafael Dos Anjos,2014-04-19,UFC on FOX: Werdum vs Browne,Lightweight,FALSE,Unanimous Decision,3,5:00,70,70,70,68,TRUE,FALSE,72,40,135,76
+Khabib Nurmagomedov,Darrell Horcher,2016-04-16,UFC on FOX: Teixeira vs Evans,Catchweight,FALSE,Knockout,2,3:38,70,70,70,70,TRUE,FALSE,107,18,139,42
+Khabib Nurmagomedov,Michael Johnson,2016-11-12,UFC 205: Alvarez vs McGregor,Lightweight,FALSE,Submission,3,2:31,70,73,70,70,TRUE,FALSE,140,20,190,78
+Khabib Nurmagomedov,Edson Barboza,2017-12-30,UFC 219: Cyborg vs Holm,Lightweight,FALSE,Unanimous Decision,3,5:00,70,75,70,71,TRUE,FALSE,154,25,246,77
+Khabib Nurmagomedov,Al Iaquinta,2018-04-07,UFC 223: Khabib vs Iaquinta,Lightweight,TRUE,Unanimous Decision,5,5:00,70,70,70,70,TRUE,FALSE,172,43,352,143
+Khabib Nurmagomedov,Conor McGregor,2018-10-06,UFC 229: Khabib vs McGregor,Lightweight,TRUE,Submission,4,3:03,70,74,70,69,TRUE,FALSE,104,96,157,128
+Khabib Nurmagomedov,Dustin Poirier,2019-09-07,UFC 242: Khabib vs Poirier,Lightweight,TRUE,Submission,3,2:06,70,72,70,69,TRUE,FALSE,54,30,77,57
+Khabib Nurmagomedov,Justin Gaethje,2020-10-24,UFC 254: Khabib vs Gaethje,Lightweight,TRUE,Submission,2,1:34,70,70,70,71,TRUE,FALSE,26,29,80,46
+Max Holloway,Dustin Poirier,2012-02-04,UFC 143: Diaz vs Condit,Featherweight,FALSE,Submission,1,3:23,69,72,71,69,FALSE,TRUE,11,15,32,29
+Max Holloway,Pat Schilling,2012-06-01,The Ultimate Fighter: Live Finale,Featherweight,FALSE,Unanimous Decision,3,5:00,69,,71,68,TRUE,FALSE,119,27,268,108
+Max Holloway,Justin Lawrence,2012-08-11,UFC 150: Henderson vs Edgar II,Featherweight,FALSE,Knockout,2,4:49,69,67,71,68,TRUE,FALSE,29,32,124,92
+Max Holloway,Leonard Garcia,2012-12-29,UFC 155: Dos Santos vs Velasquez II,Featherweight,FALSE,Split Decision,3,5:00,69,68,71,70,TRUE,FALSE,122,92,273,367
+Max Holloway,Dennis Bermudez,2013-05-25,UFC 160: Velasquez vs Silva 2,Featherweight,FALSE,Split Decision,3,5:00,69,66,71,66,FALSE,TRUE,79,78,197,231
+Max Holloway,Conor McGregor,2013-08-17,UFC Fight Night: Shogun vs Sonnen,Featherweight,FALSE,Unanimous Decision,3,5:00,69,74,71,69,FALSE,TRUE,32,71,104,173
+Max Holloway,Will Chope,2014-01-04,UFC Fight Night: Saffiedine vs Lim,Featherweight,FALSE,Knockout,2,2:27,69,,71,76,TRUE,FALSE,79,34,145,122
+Max Holloway,Andre Fili,2014-04-26,UFC 172: Jones vs Teixeira,Featherweight,FALSE,Submission,3,3:39,69,74,71,71,TRUE,FALSE,57,46,161,141
+Max Holloway,Clay Collard,2014-08-23,UFC Fight Night: Henderson vs Dos Anjos,Catchweight,FALSE,Knockout,3,3:47,69,73,71,71,TRUE,FALSE,137,73,219,213
+Max Holloway,Akira Corassani,2014-10-04,UFC Fight Night: Nelson vs Story,Featherweight,FALSE,Knockout,1,3:11,69,68,71,68,TRUE,FALSE,38,11,62,29
+Max Holloway,Cole Miller,2015-02-14,UFC Fight Night: Henderson vs Thatch,Featherweight,FALSE,Unanimous Decision,3,5:00,69,73,71,73,TRUE,FALSE,66,35,186,137
+Max Holloway,Cub Swanson,2015-04-18,UFC on FOX: Machida vs Rockhold,Featherweight,FALSE,Submission,3,3:58,69,70,71,68,TRUE,FALSE,86,58,202,138
+Max Holloway,Charles Oliveira,2015-08-23,UFC Fight Night: Holloway vs Oliveira,Featherweight,FALSE,Knockout,1,1:39,69,74,71,70,TRUE,FALSE,14,5,29,17
+Max Holloway,Jeremy Stephens,2015-12-12,UFC 194: Aldo vs McGregor,Featherweight,FALSE,Unanimous Decision,3,5:00,69,71,71,69,TRUE,FALSE,79,60,122,110
+Max Holloway,Ricardo Lamas,2016-06-04,UFC 199: Rockhold vs Bisping 2,Featherweight,FALSE,Unanimous Decision,3,5:00,69,71,71,68,TRUE,FALSE,111,66,213,137
+Max Holloway,Anthony Pettis,2016-12-10,UFC 206: Holloway vs Pettis,Featherweight,TRUE,Knockout,3,4:50,69,72,71,70,TRUE,FALSE,98,55,212,160
+Max Holloway,Jose Aldo,2017-06-03,UFC 212: Aldo vs Holloway,Featherweight,TRUE,Knockout,3,4:13,69,70,71,67,TRUE,FALSE,128,56,234,115
+Max Holloway,Jose Aldo,2017-12-02,UFC 218: Holloway vs Aldo 2,Featherweight,TRUE,Knockout,3,4:51,69,70,71,67,TRUE,FALSE,181,89,406,165
+Max Holloway,Brian Ortega,2018-12-08,UFC 231: Holloway vs Ortega,Featherweight,TRUE,Knockout,4,5:00,69,69,71,68,TRUE,FALSE,307,112,507,294
+Max Holloway,Dustin Poirier,2019-04-13,UFC 236: Holloway vs Poirier 2,Lightweight,TRUE,Unanimous Decision,5,5:00,69,72,71,69,FALSE,TRUE,208,180,473,383
+Max Holloway,Frankie Edgar,2019-07-27,UFC 240: Holloway vs Edgar,Featherweight,TRUE,Unanimous Decision,5,5:00,69,68,71,66,TRUE,FALSE,131,96,330,264
+Max Holloway,Alexander Volkanovski,2019-12-14,UFC 245: Usman vs Covington,Featherweight,TRUE,Unanimous Decision,5,5:00,69,71,71,66,FALSE,TRUE,135,157,304,303
+Max Holloway,Alexander Volkanovski,2020-07-11,UFC 251: Usman vs Masvidal,Featherweight,TRUE,Split Decision,5,5:00,69,71,71,66,FALSE,TRUE,111,139,277,275
+Ronda Rousey,Sarah D'alelio,2011-08-12,Strikeforce Challengers 18,Women's Featherweight,FALSE,Submission,1,0:25,66,,67,67,TRUE,FALSE,0,1,2,3
+Ronda Rousey,Julia Budd,2011-11-18,Strikeforce Challengers 20,Women's Featherweight,FALSE,Submission,1,0:39,66,67,67,67,TRUE,FALSE,3,3,3,6
+Ronda Rousey,Miesha Tate,2012-03-03,Strikeforce - Tate vs Rousey,Women's Bantamweight,TRUE,Submission,1,4:27,66,66,67,66,TRUE,FALSE,43,11,48,27
+Ronda Rousey,Sarah Kaufman,2012-08-18,Strikeforce - Rousey vs Kaufman,Women's Bantamweight,TRUE,Submission,1,0:54,66,66,67,65,TRUE,FALSE,6,1,9,3
+Ronda Rousey,Liz Carmouche,2013-02-23,UFC 157: Rousey vs Carmouche,Women's Bantamweight,TRUE,Submission,1,4:49,66,66,67,66,TRUE,FALSE,41,22,50,24
+Ronda Rousey,Miesha Tate,2013-12-28,UFC 168: Weidman vs Silva 2,Women's Bantamweight,TRUE,Submission,3,0:58,66,66,67,66,TRUE,FALSE,134,28,161,54
+Ronda Rousey,Sara McMann,2014-02-22,UFC 170: Rousey vs McMann,Women's Bantamweight,TRUE,Knockout,1,1:06,66,66,67,66,TRUE,FALSE,21,14,30,21
+Ronda Rousey,Alexis Davis,2014-07-05,UFC 175: Weidman vs Machida,Women's Bantamweight,TRUE,Knockout,1,0:16,66,68,67,66,TRUE,FALSE,14,2,16,6
+Ronda Rousey,Cat Zingano,2015-02-28,UFC 184: Rousey vs Zingano,Women's Bantamweight,TRUE,Submission,1,0:14,66,68,67,66,TRUE,FALSE,0,0,0,1
+Ronda Rousey,Bethe Correia,2015-08-01,UFC 190: Rousey vs Correia,Women's Bantamweight,TRUE,Knockout,1,0:34,66,64,67,65,TRUE,FALSE,19,9,32,14
+Ronda Rousey,Holly Holm,2015-11-14,UFC 193: Rousey vs Holm,Women's Bantamweight,TRUE,Knockout,2,0:59,66,69,67,68,FALSE,TRUE,21,38,69,53
+Ronda Rousey,Amanda Nunes,2016-12-30,UFC 207: Nunes vs Rousey,Women's Bantamweight,TRUE,Knockout,1,0:48,66,69,67,68,FALSE,TRUE,7,27,14,47
+Stipe Miocic,Joey Beltran,2011-10-08,UFC 136: Edgar vs Maynard 3,Heavyweight,FALSE,Unanimous Decision,3,5:00,80,75,76,73,TRUE,FALSE,103,80,180,182
+Stipe Miocic,Philip De Fries,2012-02-15,UFC on FUEL TV: Sanchez vs Ellenberger,Heavyweight,FALSE,Knockout,1,0:43,80,79,76,77,TRUE,FALSE,10,7,19,18
+Stipe Miocic,Shane del Rosario,2012-05-26,UFC 146: Dos Santos vs Mir,Heavyweight,FALSE,Knockout,2,3:14,80,,76,76,TRUE,FALSE,58,33,115,50
+Stipe Miocic,Stefan Struve,2012-09-29,UFC on FUEL TV: Struve vs Miocic,Heavyweight,FALSE,Knockout,2,3:50,80,84,76,83,FALSE,TRUE,48,57,95,128
+Stipe Miocic,Roy Nelson,2013-06-15,UFC 161: Evans vs Henderson,Heavyweight,FALSE,Unanimous Decision,3,5:00,80,73,76,72,TRUE,FALSE,129,25,197,130
+Stipe Miocic,Gabriel Gonzaga,2014-01-25,UFC on FOX: Henderson vs Thomson,Heavyweight,FALSE,Unanimous Decision,3,5:00,80,76,76,74,TRUE,FALSE,77,33,205,87
+Stipe Miocic,Fabio Maldonado,2014-05-31,UFC Fight Night: Miocic vs Maldonado,Heavyweight,FALSE,Knockout,1,0:35,80,75,76,73,TRUE,FALSE,11,2,18,8
+Stipe Miocic,Junior Dos Santos,2014-12-13,UFC on FOX: Dos Santos vs Miocic,Heavyweight,FALSE,Unanimous Decision,5,5:00,80,77,76,76,FALSE,TRUE,102,140,206,322
+Stipe Miocic,Mark Hunt,2015-05-09,UFC Fight Night: Miocic vs Hunt,Heavyweight,FALSE,Knockout,5,2:47,80,72,76,70,TRUE,FALSE,361,46,464,109
+Stipe Miocic,Andrei Arlovski,2016-01-02,UFC 195: Lawler vs Condit,Heavyweight,FALSE,Knockout,1,0:54,80,77,76,75,TRUE,FALSE,11,7,15,12
+Stipe Miocic,Fabricio Werdum,2016-05-14,UFC 198: Werdum vs Miocic,Heavyweight,TRUE,Knockout,1,2:47,80,77,76,76,TRUE,FALSE,20,15,31,33
+Stipe Miocic,Alistair Overeem,2016-09-10,UFC 203: Miocic vs Overeem,Heavyweight,TRUE,Knockout,1,4:27,80,80,76,76,TRUE,FALSE,34,9,60,17
+Stipe Miocic,Junior Dos Santos,2017-05-13,UFC 211: Miocic vs Dos Santos,Heavyweight,TRUE,Knockout,1,2:22,80,77,76,76,TRUE,FALSE,26,12,56,18
+Stipe Miocic,Francis Ngannou,2018-01-20,UFC 220: Miocic vs Ngannou,Heavyweight,TRUE,Unanimous Decision,5,5:00,80,83,76,76,TRUE,FALSE,200,33,244,126
+Stipe Miocic,Daniel Cormier,2018-07-07,UFC 226: Miocic vs Cormier,Heavyweight,TRUE,Knockout,1,4:33,80,72,76,71,FALSE,TRUE,29,31,56,43
+Stipe Miocic,Daniel Cormier,2019-08-17,UFC 241: Cormier vs Miocic 2,Heavyweight,TRUE,Knockout,4,4:09,80,72,76,71,TRUE,FALSE,135,230,244,317
+Stipe Miocic,Daniel Cormier,2020-08-15,UFC 252: Miocic vs Cormier 3,Heavyweight,TRUE,Unanimous Decision,5,5:00,80,72,76,71,TRUE,FALSE,171,145,244,223
+Valentina Shevchenko,Sarah Kaufman,2015-12-19,UFC on FOX: Dos Anjos vs Cowboy 2,Women's Bantamweight,FALSE,Split Decision,3,5:00,66,66,65,65,TRUE,FALSE,66,142,78,172
+Valentina Shevchenko,Amanda Nunes,2016-03-05,UFC 196: McGregor vs Diaz,Women's Bantamweight,FALSE,Unanimous Decision,3,5:00,66,69,65,68,FALSE,TRUE,56,66,99,112
+Valentina Shevchenko,Holly Holm,2016-07-23,UFC on FOX: Holm vs Shevchenko,Women's Bantamweight,FALSE,Unanimous Decision,5,5:00,66,69,65,68,TRUE,FALSE,119,73,217,231
+Valentina Shevchenko,Julianna Pena,2017-01-28,UFC on FOX: Shevchenko vs Pena,Women's Bantamweight,FALSE,Submission,2,4:29,66,69,65,66,TRUE,FALSE,46,78,51,99
+Valentina Shevchenko,Amanda Nunes,2017-09-09,UFC 215: Nunes vs Shevchenko 2,Women's Bantamweight,TRUE,Split Decision,5,5:00,66,69,65,68,FALSE,TRUE,85,90,209,180
+Valentina Shevchenko,Priscila Cachoeira,2018-02-03,UFC Fight Night: Machida vs Anders,Women's Flyweight,FALSE,Submission,2,4:25,66,65,65,67,TRUE,FALSE,230,3,254,13
+Valentina Shevchenko,Joanna Jedrzejczyk,2018-12-08,UFC 231: Holloway vs Ortega,Women's Flyweight,TRUE,Unanimous Decision,5,5:00,66,65,65,66,TRUE,FALSE,118,124,223,300
+Valentina Shevchenko,Jessica Eye,2019-06-08,UFC 238: Cejudo vs Moraes,Women's Flyweight,TRUE,Knockout,2,0:26,66,66,65,66,TRUE,FALSE,37,42,40,52
+Valentina Shevchenko,Liz Carmouche,2019-08-10,UFC Fight Night: Shevchenko vs Carmouche 2,Women's Flyweight,TRUE,Unanimous Decision,5,5:00,66,66,65,66,TRUE,FALSE,84,132,159,191
+Valentina Shevchenko,Katlyn Chookagian,2020-02-08,UFC 247: Jones vs Reyes,Women's Flyweight,TRUE,Knockout,3,1:03,66,68,65,69,TRUE,FALSE,57,27,82,68
+Valentina Shevchenko,Jennifer Maia,2020-11-21,UFC 255: Figueiredo vs Perez,Women's Flyweight,TRUE,Unanimous Decision,5,5:00,66,64,65,64,TRUE,FALSE,249,94,317,152
