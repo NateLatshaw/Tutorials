@@ -16,4 +16,3 @@ df <- df[F1_Name %in% fighters, .(F1_Name, F2_Name,
 setkey(df, F1_Name, Date)
 
 fwrite(df, 'E:/Tutorials/data/ufc_fighter_histories.csv')
-
